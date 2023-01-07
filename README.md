@@ -2,10 +2,10 @@
 
 :mortar_board: BSc IT, MBA
 
-# Tech stack
+#### Tech stack
 
 <!-- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/PostgreSQL.svg" /> -->
-<img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />  <img height="32" width="32" src="https://cdn.simpleicons.org/react" /> <img height="32" width="32" src="https://cdn.simpleicons.org/python" /> <img height="32" width="32" src="https://cdn.simpleicons.org/django" /> <img height="32" width="32" src="https://cdn.simpleicons.org/PostgreSQL" /> <img height="32" width="32" src="https://cdn.simpleicons.org/sqlite" /> <img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu" /> <img height="32" width="32" src="https://cdn.simpleicons.org/nginx" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />  <img height="32" width="32" src="https://cdn.simpleicons.org/react" /> <img height="32" width="32" src="https://cdn.simpleicons.org/css3" /> <img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap" /> <img height="32" width="32" src="https://cdn.simpleicons.org/python" /> <img height="32" width="32" src="https://cdn.simpleicons.org/django" /> <img height="32" width="32" src="https://cdn.simpleicons.org/PostgreSQL" /> <img height="32" width="32" src="https://cdn.simpleicons.org/sqlite" /> <img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu" /> <img height="32" width="32" src="https://cdn.simpleicons.org/nginx" />
 
 
 
