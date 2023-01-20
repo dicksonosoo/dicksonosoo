@@ -1,5 +1,6 @@
 ### Hi, I am Alela 👋
 I am visionary Software Developer with a passion for using technology to solve big problems.
+
 :mortar_board: BSc IT, MBA
 
 #### Tech stack
